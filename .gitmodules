@@ -1,0 +1,3 @@
+[submodule "bet-finder"]
+	path = bet-finder
+	url = https://github.com/usuario/bet-finder.git
